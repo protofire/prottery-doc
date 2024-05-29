@@ -48,7 +48,7 @@ Chainlink generates the seed which is the random number necessary to choose the 
 
 * proxy: [0x02D1F0D6F0Bb52EEBEDAC461c3703678438ae5D5](https://arbiscan.io/address/0x02D1F0D6F0Bb52EEBEDAC461c3703678438ae5D5)
 * jackpot: [0xE5C9dbACF62aA1cA7AE85a17123917f3718Fd8Ab](https://arbiscan.io/address/0xE5C9dbACF62aA1cA7AE85a17123917f3718Fd8Ab)
-* impl: [0xB53Cd38a65f565d1c23b1257760C283d9CAAC803](0xB53Cd38a65f565d1c23b1257760C283d9CAAC803)
+* impl: [0xB53Cd38a65f565d1c23b1257760C283d9CAAC803](https://arbiscan.io/address/0xB53Cd38a65f565d1c23b1257760C283d9CAAC803)
 
 
 
