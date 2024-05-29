@@ -19,7 +19,7 @@ Prottery is a dapp created by Protofire that allows you to earn more GRTs playin
 There are only two requirements: 
 
 * Have delegated to our indexer. 
-* Have registered for the lottery.
+* Have enrolled for the lottery.
 
 So if you want to participate, please follow the next steps:
 
@@ -27,7 +27,7 @@ So if you want to participate, please follow the next steps:
 
 	[Delegate GRTs on Protofire Indexer](https://thegraph.com/explorer/profile/0x0fd8fd1dc8162148cb9413062fe6c6b144335dbf?view=Indexing&chain=arbitrum-one)
 
-2. Register to play the lottery connecting your wallet and join to the list 
+2. Enroll to play the lottery connecting your wallet 
 
 	[Register in Prottery](https://prottery.protofire-thegraph.com)
 
