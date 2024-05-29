@@ -51,20 +51,23 @@ We need to generate this data structure in order to take into account the winnin
 
 ![Winner](./images/winning.png)
 
+1. The participants are put in order according to the time of registration.
+
+2. Each participant has a delegated amount of GRTs and the segment is assembled. 
+
+Example:
+
+p1 -> 0 to 300
+p2 -> 300 to 500
+
+The Segment for participant 1 is bigget than segment for participant 2 so the changes for p1 are bigger.
+
+The random number will always be between 0 and the maximum number of delegated GRTs.
+
+We apply a mod function between a random number from chainlink and the max amount of delegation by the participants.
+
 ### Smart Contracts
 
 * proxy: [0x02D1F0D6F0Bb52EEBEDAC461c3703678438ae5D5](https://arbiscan.io/address/0x02D1F0D6F0Bb52EEBEDAC461c3703678438ae5D5)
 * jackpot: [0xE5C9dbACF62aA1cA7AE85a17123917f3718Fd8Ab](https://arbiscan.io/address/0xE5C9dbACF62aA1cA7AE85a17123917f3718Fd8Ab)
 * impl: [0xB53Cd38a65f565d1c23b1257760C283d9CAAC803](https://arbiscan.io/address/0xB53Cd38a65f565d1c23b1257760C283d9CAAC803)
-
-
-
-
-
-
-
-
-
-
-
-
