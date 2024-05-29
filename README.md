@@ -66,6 +66,8 @@ The random number will always be between 0 and the maximum number of delegated G
 
 We apply a mod function between a random number from chainlink and the max amount of delegation by the participants.
 
+If you add more GRT, the segment becomes larger, which increases the possibilities.
+
 ### Smart Contracts
 
 * proxy: [0x02D1F0D6F0Bb52EEBEDAC461c3703678438ae5D5](https://arbiscan.io/address/0x02D1F0D6F0Bb52EEBEDAC461c3703678438ae5D5)
