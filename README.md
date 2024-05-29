@@ -57,8 +57,8 @@ We need to generate this data structure in order to take into account the winnin
 
 Example:
 
-p1 -> 0 to 300
-p2 -> 300 to 500
+    p1 -> 0 to 300
+    p2 -> 300 to 500
 
 The Segment for participant 1 is bigget than segment for participant 2 so the changes for p1 are bigger.
 
