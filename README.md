@@ -2,6 +2,8 @@
 
 Prottery is a dapp created by Protofire that allows you to earn more GRTs playing the lottery using The Graph. 
 
+More delegation, greater are the chances of winning.
+
 ## How it works?
 
 ![Workflow](./images/workflow.png)
@@ -43,6 +45,11 @@ Chainlink generates the seed which is the random number necessary to choose the 
 ![Chainlink](./images/chainlink.png)
 
 
+### Winning chances
+
+We need to generate this data structure in order to take into account the winning chances given each participant stake
+
+![Winner](./images/winning.png)
 
 ### Smart Contracts
 
